@@ -1,0 +1,47 @@
+{
+  "addonName": {
+    "message": "HLSify"
+  },
+  "addonDescription": {
+    "message": "Automatically use hls.js when sites try to play m3u8 playlists."
+  },
+  "addonAuthorsList": {
+    "message": "Thomas Wisniewski <twisniewski@mozilla.com>"
+  },
+  "hlsjsLoaded": {
+    "message": "hls.js loaded"
+  },
+  "hlsjsLoadError": {
+    "message": "error loading hls.js"
+  },
+  "hlsjsError": {
+    "message": "error detected in hls.js"
+  },
+  "hlsjsManifestLoaded": {
+    "message": "playlist loaded by hls.js"
+  },
+  "hlsjsAttempt": {
+    "message": "detected possible HLS stream. Attempting to use hls.js"
+  },
+  "hlsjsAttached": {
+    "message": "downloading playlist with hls.js"
+  },
+  "playerRecoveryAttempt": {
+    "message": "trying to recover from media error"
+  },
+  "playerAudioCodecSwapRecoveryAttempt": {
+    "message": "trying to swap audio codec and recover from media error"
+  },
+  "playerRecoveryAttemptFailed": {
+    "message": "cannot recover, last media error recovery failed"
+  },
+  "playerError": {
+    "message": "player $1 error"
+  },
+  "playerNetworkError": {
+    "message": "network error"
+  },
+  "playerUnrecoverableError": {
+    "message": "unrecoverable error"
+  }
+}
